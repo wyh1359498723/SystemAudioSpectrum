@@ -1,0 +1,5 @@
+E:/qt_project/SystemAudioSpectrum/out/build/debug/CMakeFiles/SystemAudioSpectrum.dir
+E:/qt_project/SystemAudioSpectrum/out/build/debug/CMakeFiles/edit_cache.dir
+E:/qt_project/SystemAudioSpectrum/out/build/debug/CMakeFiles/rebuild_cache.dir
+E:/qt_project/SystemAudioSpectrum/out/build/debug/CMakeFiles/SystemAudioSpectrum_autogen_timestamp_deps.dir
+E:/qt_project/SystemAudioSpectrum/out/build/debug/CMakeFiles/SystemAudioSpectrum_autogen.dir

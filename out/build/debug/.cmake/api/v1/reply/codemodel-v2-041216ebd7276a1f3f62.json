@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SystemAudioSpectrum",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SystemAudioSpectrum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SystemAudioSpectrum-Debug-596e35667a1cd3672047.json",
+					"name" : "SystemAudioSpectrum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SystemAudioSpectrum_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SystemAudioSpectrum_autogen-Debug-6929e8b3ed9372558bb2.json",
+					"name" : "SystemAudioSpectrum_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SystemAudioSpectrum_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SystemAudioSpectrum_autogen_timestamp_deps-Debug-a3c9a167dba9c2191944.json",
+					"name" : "SystemAudioSpectrum_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/qt_project/SystemAudioSpectrum/out/build/debug",
+		"source" : "E:/qt_project/SystemAudioSpectrum"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
